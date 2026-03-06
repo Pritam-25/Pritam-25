@@ -25,11 +25,16 @@
 - System Design
 - AI & LLM Applications
 - Backend Architecture
-- Data Systems
+- Data Science
 
 ---
 
+
+<div align="center">
+
 ## 🛠️ Tech Stack
+
+</div>
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
@@ -90,8 +95,14 @@
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+
+
+
 ---
-# 📊 GitHub Stats
+
+<div align="center">
+
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Pritam-25&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -99,21 +110,33 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-25&layout=compact&theme=dark&hide_border=true)
 
+</div>
+
 ---
 
-# 📈 Contribution Graph
+
+
+<div align="center">
+
+## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritam-25&theme=github-compact"/>
 
+</div>
+
 ---
 
-# 🌐 Connect With Me
+<div align="center">
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maityp394/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
 <a href="https://leetcode.com/u/maityp394/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"/></a>
 <a href="mailto:maityp394@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
 </p>
+
+</div>
 
 ---
 
