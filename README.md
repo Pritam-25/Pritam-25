@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f766e&height=220&section=header&text=Pritam%20Maity&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20MCA%20Student&descAlignY=58&descSize=18"/>
+<img src="github-readme.png" alt="Pritam Maity" height="220"/>
 
 <br/>
 
@@ -142,6 +142,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f766e&height=130&section=footer&text=Keep+Building+%F0%9F%9A%80&fontSize=20&fontColor=e9d5ff&animation=twinkling&fontAlignY=65" />
+🤝 Open to collaboration and always learning new things. 
 
 </div>
