@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github-readme.png" alt="Pritam Maity" height="220"/>
+<img src="https://lms-application.t3.storage.dev/github-readme.png" alt="Pritam Maity" height="220"/>
 
 <br/>
 
