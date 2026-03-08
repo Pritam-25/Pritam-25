@@ -94,8 +94,8 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
 
 </div>
----
 
+---
 <div align="center">
 
 ## 📊 GitHub Stats
@@ -139,4 +139,3 @@
 🤝 Open to collaboration and always learning new things.
 
 </div>
-
