@@ -33,6 +33,8 @@
 
 ## 🛠️ Tech Stack
 
+</div>
+
 ### Languages
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
@@ -93,7 +95,6 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](https://jupyter.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
 
-</div>
 
 ---
 <div align="center">
